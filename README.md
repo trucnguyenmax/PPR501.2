@@ -13,4 +13,4 @@
 ## Assignment
 | # | Topic | Source |
 |-|-|-|
-| 01 | Assignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/)|
+| 01 | Assignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XX6t02_cSjQQRys9CS2_oC8Ip3v9EHKJ?usp=share_link)|
