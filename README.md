@@ -1,7 +1,6 @@
 # PPR501.2
 
 | 22MSE23073 | Nguyễn Cương Trực | 
-|-|-|-|
 
 ## Exercise
 | # | Topic | Source |
