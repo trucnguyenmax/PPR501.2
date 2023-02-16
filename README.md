@@ -1,4 +1,4 @@
-# PPR501.2
+# PPR501.2 | Python for Engineers
 
 | 22MSE23073 | Nguyễn Cương Trực | 
 |-|-|
